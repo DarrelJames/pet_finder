@@ -18,7 +18,7 @@ Change directory
 
 Run program
 
-`bin/petfinder`
+`bin/pet_finder`
 
 Follow User Prompts
 
