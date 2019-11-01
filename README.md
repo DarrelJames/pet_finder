@@ -6,23 +6,20 @@ TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Fork or clone repository.
 
-```ruby
-gem 'pet_finder'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install pet_finder
+`git clone git@github.com:DarrelJames/pet_finder.git`
 
 ## Usage
 
-TODO: Write usage instructions here
+Change directory
+`cd pet_finder`
+
+Run program
+
+`bin/petfinder`
+
+Follow User Prompts
 
 ## Development
 
