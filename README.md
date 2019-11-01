@@ -13,6 +13,7 @@ Fork or clone repository.
 ## Usage
 
 Change directory
+
 `cd pet_finder`
 
 Run program
