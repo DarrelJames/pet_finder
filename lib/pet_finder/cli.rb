@@ -48,7 +48,7 @@ class PetFinder::CLI
     zip = ask_for_zipcode
 
     PetFinder::Pet.all.clear
-    PetFinder::Scraper.get_pets(type, zip)
+    PetFinder::API.get_pets(type, zip)
   end
 
   def list_pets
